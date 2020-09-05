@@ -1,0 +1,6 @@
+bankAccount: bankAccountType: LOAN, bankName: Chase, amount: 27575
+
+mortgageAccount: lenderName: Citi, accountType: Fixed-30-year, amount: 125460
+
+creditCardAccount: creditCardNumber: 4485XXXXXX955556, expirationDate: 20221212, issuer: Citi, amount: 3354
+

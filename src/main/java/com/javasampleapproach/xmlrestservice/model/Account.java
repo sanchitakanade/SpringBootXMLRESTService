@@ -21,5 +21,13 @@ public abstract class Account {
         return amount;
     }
 
+    public String getAccountNumber() {
+        return accountNumber;
+    }
+
+    public String getAccountType() {
+        return accountType;
+    }
+
     public abstract Description createDescription();
 }
